@@ -5,10 +5,10 @@ languages:
 products:
   - azure
   - azure-redis-cache
-description: "This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster."
+description: 'This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster.'
 ---
 
-# Azure Voting App
+# Azure Voting App Teste
 
 This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster. The application interface has been built using Python / Flask. The data component is using Redis.
 
@@ -18,7 +18,7 @@ To walk through a complete experience where this code is packaged into container
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
